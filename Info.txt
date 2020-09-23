@@ -1,0 +1,6 @@
+This application will anonymously query an exchange 5.5 or higher exchange server and retrieve
+The names and email addresses and place them into an access database. 
+This code has many useful examples.
+
+DAO 3.60 and ADSI (Active Directory Services) are required. To use the printing feature, 
+you must have Access 2000 installed on your machine.
